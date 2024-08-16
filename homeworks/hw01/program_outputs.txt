@@ -1,0 +1,14 @@
+Output of the three programs:
+
+angelicavargas@Angelicas-MacBook-Pro cpts121_hw01_vargas_angelica % ./program_1
+Hello, world!
+angelicavargas@Angelicas-MacBook-Pro cpts121_hw01_vargas_angelica % ./program_2
+Enter a radius: 5
+Circumference: 31.415927
+angelicavargas@Angelicas-MacBook-Pro cpts121_hw01_vargas_angelica % ./program_3
+-49.141410
+-49.1414100000
+          -49.141410
+99
+        99
+0000000099
